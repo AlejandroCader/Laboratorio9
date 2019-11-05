@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Laboratorio9/static/css/main.22de9252.chunk.css",
+    "main.js": "/Laboratorio9/static/js/main.3d7d3f1e.chunk.js",
+    "main.js.map": "/Laboratorio9/static/js/main.3d7d3f1e.chunk.js.map",
+    "runtime-main.js": "/Laboratorio9/static/js/runtime-main.a3753551.js",
+    "runtime-main.js.map": "/Laboratorio9/static/js/runtime-main.a3753551.js.map",
+    "static/js/2.54f34972.chunk.js": "/Laboratorio9/static/js/2.54f34972.chunk.js",
+    "static/js/2.54f34972.chunk.js.map": "/Laboratorio9/static/js/2.54f34972.chunk.js.map",
+    "index.html": "/Laboratorio9/index.html",
+    "precache-manifest.219602e16c9ac125bee81602a9207b18.js": "/Laboratorio9/precache-manifest.219602e16c9ac125bee81602a9207b18.js",
+    "service-worker.js": "/Laboratorio9/service-worker.js",
+    "static/css/main.22de9252.chunk.css.map": "/Laboratorio9/static/css/main.22de9252.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3753551.js",
+    "static/js/2.54f34972.chunk.js",
+    "static/css/main.22de9252.chunk.css",
+    "static/js/main.3d7d3f1e.chunk.js"
+  ]
+}
